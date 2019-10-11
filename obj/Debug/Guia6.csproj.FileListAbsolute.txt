@@ -1,0 +1,7 @@
+C:\Users\humbe\source\repos\Guia6\obj\Debug\Guia6.csprojAssemblyReference.cache
+C:\Users\humbe\source\repos\Guia6\obj\Debug\Guia6.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Guia6\bin\Debug\Guia6.exe.config
+C:\Users\humbe\source\repos\Guia6\bin\Debug\Guia6.exe
+C:\Users\humbe\source\repos\Guia6\bin\Debug\Guia6.pdb
+C:\Users\humbe\source\repos\Guia6\obj\Debug\Guia6.exe
+C:\Users\humbe\source\repos\Guia6\obj\Debug\Guia6.pdb
